@@ -4,6 +4,9 @@
   "license": "MIT",
   "author": "Priyansh Shah",
   "main": "dist/index.js",
+  "publishConfig": {
+    "shahpriyansh04:registry": "https://npm.pkg.github.com"
+  },
   "module": "dist/f1-core.esm.js",
   "typings": "dist/index.d.ts",
   "files": [
